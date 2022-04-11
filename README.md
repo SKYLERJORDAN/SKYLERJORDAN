@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @SKYLERJORDAN
+- 👀 I’m interested in python and procedural 3D art
+- 🌱 I’m currently learning python and blender
