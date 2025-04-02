@@ -1,3 +1,2 @@
 - 🖥️ I've been coding in python for 3 years
 - 👀 I’m interested in Machine Learning and Data Analysis
-- 🧑🏾‍💻 www.skylerjordan.io
