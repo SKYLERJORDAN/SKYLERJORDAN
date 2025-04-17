@@ -1,2 +1,2 @@
-- 🖥️ I've been coding in python for 3 years
+- 🖥️ Specialize in python 
 - 👀 I’m interested in Machine Learning and Data Analysis
